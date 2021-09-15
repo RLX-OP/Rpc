@@ -1,0 +1,9 @@
+{  
+        "applicationid": "YOUR APPLICATION ID HERE",
+        "type": "TYPE LIKE PLAYING, WATCHING, STREAMING, LISTENING",
+        "name": "NAME THIS WILL BE THE HEADING",
+        "details": "DESCRIPTION HERE",
+        "state": "",
+        "imagesmall": "SMALL IMAGE HERE",
+        "imagename":"LARGE EMAIL HERE"
+}
