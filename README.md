@@ -19,7 +19,7 @@ First get your token
 Note: Not of bot yours if you dont know how to get search on youtube or google
 Then make .env file and do this:-
 TOKEN = "YOUR TOKEN HERE"
-Then go to discord developer portal [Click Me](https://www.google.com/url?sa=t&source=web&rct=j&url=https://discord.com/developers/docs&ved=2ahUKEwjI0YiomYHzAhVObn0KHdlPC40QFnoECA4QAg&usg=AOvVaw03p7P12f_5No1XoZMli0fv).
+Then go to [Discord Developer Portal](https://discord.com/developers/applications).
 Then make a application
 Then go to config.json file and fill the required Things More info there.
 
