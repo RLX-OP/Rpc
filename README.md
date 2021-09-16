@@ -39,7 +39,6 @@ After adding image click save changes and note: This is for image you can't use 
 
 ## Step-6
 Then go to config.json file and fill the required Things More info there.
-## What is application I'd how can I get it:-
 
 ## Support Server 😀
 [Click Me](https://dsc.gg/rlx) if you need any help or support us.
