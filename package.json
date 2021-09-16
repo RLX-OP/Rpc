@@ -1,5 +1,5 @@
 {
-  "name": "Xr-rpc-3",
+  "name": "RPC",
   "version": "1.0.0",
   "description": "Packages Used:- -express- -discordrpcgenerator- -discord.js-selfbot-v11-",
   "main": "index.js",
